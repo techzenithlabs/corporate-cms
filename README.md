@@ -20,6 +20,7 @@ This project helps companies manage their static content pages like Home, About 
 ## 📁 Project Structure
 
 corporate-cms/
+
 ├── client/ # React frontend
 │ ├── src/
 │ │ ├── pages/
@@ -37,6 +38,7 @@ corporate-cms/
 ├── .gitignore
 ├── package.json # Root-level scripts
 └── README.md
+
 
 📦 Install Dependencies
 npm install            # Installs backend dependencies
